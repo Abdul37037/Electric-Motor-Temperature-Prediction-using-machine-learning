@@ -1,4 +1,4 @@
-# Electric_Motor_Temperature_Prediction
+# Electric_Motor_Temperature_Prediction_using_machine_learning
 Demo here  https://drive.google.com/file/d/1-IKTBb3nRXTePZ0K0JklGqNUFNV7T1Fe/view?usp=drivesdk
 
 Technical Architecture:
@@ -15,6 +15,7 @@ Project Structure:
 
 DATA COLLECTION:
     Dataset downloaded from Kaggle.
+
 
 
 
